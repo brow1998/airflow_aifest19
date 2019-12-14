@@ -1,0 +1,144 @@
+[2019-12-14 05:30:07,249] {scheduler_job.py:153} INFO - Started process (PID=31968) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:30:07,257] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:30:07,258] {logging_mixin.py:112} INFO - [2019-12-14 05:30:07,258] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:30:07,274] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:30:07,281] {logging_mixin.py:112} INFO - [2019-12-14 05:30:07,281] {dag.py:1369} INFO - Creating ORM DAG for http_example_aifest
+[2019-12-14 05:30:07,549] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.300 seconds
+[2019-12-14 05:30:53,283] {scheduler_job.py:153} INFO - Started process (PID=32350) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:30:53,284] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:30:53,284] {logging_mixin.py:112} INFO - [2019-12-14 05:30:53,284] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:30:53,293] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:30:53,493] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:30:53,768] {scheduler_job.py:1270} INFO - Created <DagRun http_example_aifest @ 2019-12-10 12:00:00+00:00: scheduled__2019-12-10T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:30:53,771] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-10 12:00:00+00:00: scheduled__2019-12-10T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:30:53,779] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-14 08:30:39.108378+00:00: manual__2019-12-14T08:30:39.108378+00:00, externally triggered: True>
+[2019-12-14 05:30:53,798] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:30:53,801] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.get_joke 2019-12-10 12:00:00+00:00 [scheduled]> in ORM
+[2019-12-14 05:30:53,803] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.get_joke 2019-12-14 08:30:39.108378+00:00 [scheduled]> in ORM
+[2019-12-14 05:30:53,963] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.681 seconds
+[2019-12-14 05:32:01,817] {scheduler_job.py:153} INFO - Started process (PID=776) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:32:01,824] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:32:01,825] {logging_mixin.py:112} INFO - [2019-12-14 05:32:01,825] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:32:01,844] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:32:02,059] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:32:02,405] {scheduler_job.py:1270} INFO - Created <DagRun http_example_aifest @ 2019-12-11 12:00:00+00:00: scheduled__2019-12-11T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:32:02,413] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-10 12:00:00+00:00: scheduled__2019-12-10T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:32:02,432] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-11 12:00:00+00:00: scheduled__2019-12-11T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:32:02,441] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-14 08:30:39.108378+00:00: manual__2019-12-14T08:30:39.108378+00:00, externally triggered: True>
+[2019-12-14 05:32:02,462] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:32:02,464] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.save_joke 2019-12-10 12:00:00+00:00 [scheduled]> in ORM
+[2019-12-14 05:32:02,467] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.get_joke 2019-12-11 12:00:00+00:00 [scheduled]> in ORM
+[2019-12-14 05:32:02,469] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.save_joke 2019-12-14 08:30:39.108378+00:00 [scheduled]> in ORM
+[2019-12-14 05:32:02,578] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.762 seconds
+[2019-12-14 05:33:21,638] {scheduler_job.py:153} INFO - Started process (PID=2067) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:33:21,642] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:33:21,643] {logging_mixin.py:112} INFO - [2019-12-14 05:33:21,643] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:33:21,652] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:33:21,886] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:33:22,228] {scheduler_job.py:1270} INFO - Created <DagRun http_example_aifest @ 2019-12-12 12:00:00+00:00: scheduled__2019-12-12T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:33:22,232] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-10 12:00:00+00:00: scheduled__2019-12-10T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:33:22,242] {logging_mixin.py:112} INFO - [2019-12-14 05:33:22,242] {dagrun.py:308} INFO - Marking run <DagRun http_example_aifest @ 2019-12-10 12:00:00+00:00: scheduled__2019-12-10T12:00:00+00:00, externally triggered: False> failed
+[2019-12-14 05:33:22,397] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-11 12:00:00+00:00: scheduled__2019-12-11T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:33:22,590] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-12 12:00:00+00:00: scheduled__2019-12-12T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:33:22,599] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-14 08:30:39.108378+00:00: manual__2019-12-14T08:30:39.108378+00:00, externally triggered: True>
+[2019-12-14 05:33:22,605] {logging_mixin.py:112} INFO - [2019-12-14 05:33:22,605] {dagrun.py:308} INFO - Marking run <DagRun http_example_aifest @ 2019-12-14 08:30:39.108378+00:00: manual__2019-12-14T08:30:39.108378+00:00, externally triggered: True> failed
+[2019-12-14 05:33:22,768] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:33:22,771] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.save_joke 2019-12-11 12:00:00+00:00 [scheduled]> in ORM
+[2019-12-14 05:33:22,958] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.get_joke 2019-12-12 12:00:00+00:00 [scheduled]> in ORM
+[2019-12-14 05:33:23,063] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 1.424 seconds
+[2019-12-14 05:34:29,755] {scheduler_job.py:153} INFO - Started process (PID=3201) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:34:29,760] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:34:29,760] {logging_mixin.py:112} INFO - [2019-12-14 05:34:29,760] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:34:29,773] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:34:29,963] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:34:29,977] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-11 12:00:00+00:00: scheduled__2019-12-11T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:34:29,984] {logging_mixin.py:112} INFO - [2019-12-14 05:34:29,984] {dagrun.py:308} INFO - Marking run <DagRun http_example_aifest @ 2019-12-11 12:00:00+00:00: scheduled__2019-12-11T12:00:00+00:00, externally triggered: False> failed
+[2019-12-14 05:34:30,088] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-12 12:00:00+00:00: scheduled__2019-12-12T12:00:00+00:00, externally triggered: False>
+[2019-12-14 05:34:30,121] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-14 08:34:01.606809+00:00: manual__2019-12-14T08:34:01.606809+00:00, externally triggered: True>
+[2019-12-14 05:34:30,143] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:34:30,145] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.save_joke 2019-12-12 12:00:00+00:00 [scheduled]> in ORM
+[2019-12-14 05:34:30,148] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.get_joke 2019-12-14 08:34:01.606809+00:00 [scheduled]> in ORM
+[2019-12-14 05:34:30,308] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.553 seconds
+[2019-12-14 05:35:27,976] {scheduler_job.py:153} INFO - Started process (PID=4335) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:35:27,977] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:35:27,978] {logging_mixin.py:112} INFO - [2019-12-14 05:35:27,978] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:35:27,984] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:35:28,208] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:35:28,217] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:35:28,219] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.243 seconds
+[2019-12-14 05:36:14,040] {scheduler_job.py:153} INFO - Started process (PID=4839) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:36:14,048] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:36:14,049] {logging_mixin.py:112} INFO - [2019-12-14 05:36:14,049] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:36:14,068] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:36:14,202] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:36:14,215] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-14 08:35:30.948244+00:00: manual__2019-12-14T08:35:30.948244+00:00, externally triggered: True>
+[2019-12-14 05:36:14,228] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:36:14,231] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.get_joke 2019-12-14 08:35:30.948244+00:00 [scheduled]> in ORM
+[2019-12-14 05:36:14,341] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.302 seconds
+[2019-12-14 05:37:10,942] {scheduler_job.py:153} INFO - Started process (PID=5318) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:37:10,948] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:37:10,949] {logging_mixin.py:112} INFO - [2019-12-14 05:37:10,949] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:37:10,969] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:37:11,214] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:37:11,227] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-14 08:35:30.948244+00:00: manual__2019-12-14T08:35:30.948244+00:00, externally triggered: True>
+[2019-12-14 05:37:11,242] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:37:11,244] {scheduler_job.py:1602} INFO - Creating / updating <TaskInstance: http_example_aifest.save_joke 2019-12-14 08:35:30.948244+00:00 [scheduled]> in ORM
+[2019-12-14 05:37:11,350] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.408 seconds
+[2019-12-14 05:38:07,664] {scheduler_job.py:153} INFO - Started process (PID=6065) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:38:07,667] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:38:07,667] {logging_mixin.py:112} INFO - [2019-12-14 05:38:07,667] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:38:07,677] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:38:07,879] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:38:07,890] {scheduler_job.py:738} INFO - Examining DAG run <DagRun http_example_aifest @ 2019-12-14 08:35:30.948244+00:00: manual__2019-12-14T08:35:30.948244+00:00, externally triggered: True>
+[2019-12-14 05:38:07,897] {logging_mixin.py:112} INFO - [2019-12-14 05:38:07,897] {dagrun.py:317} INFO - Marking run <DagRun http_example_aifest @ 2019-12-14 08:35:30.948244+00:00: manual__2019-12-14T08:35:30.948244+00:00, externally triggered: True> successful
+[2019-12-14 05:38:08,056] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:38:08,062] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.398 seconds
+[2019-12-14 05:38:53,721] {scheduler_job.py:153} INFO - Started process (PID=6482) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:38:53,729] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:38:53,731] {logging_mixin.py:112} INFO - [2019-12-14 05:38:53,731] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:38:53,754] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:38:54,135] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:38:54,150] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:38:54,153] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.432 seconds
+[2019-12-14 05:39:39,774] {scheduler_job.py:153} INFO - Started process (PID=7050) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:39:39,782] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:39:39,783] {logging_mixin.py:112} INFO - [2019-12-14 05:39:39,783] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:39:39,799] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:39:39,924] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:39:39,936] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:39:39,938] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.164 seconds
+[2019-12-14 05:40:25,817] {scheduler_job.py:153} INFO - Started process (PID=7584) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:40:25,820] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:40:25,821] {logging_mixin.py:112} INFO - [2019-12-14 05:40:25,821] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:40:25,831] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:40:26,012] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:40:26,025] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:40:26,027] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.211 seconds
+[2019-12-14 05:41:12,051] {scheduler_job.py:153} INFO - Started process (PID=8193) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:41:12,055] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:41:12,055] {logging_mixin.py:112} INFO - [2019-12-14 05:41:12,055] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:41:12,071] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:41:12,213] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:41:12,224] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:41:12,226] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.175 seconds
+[2019-12-14 05:41:57,905] {scheduler_job.py:153} INFO - Started process (PID=8698) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:41:57,906] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:41:57,907] {logging_mixin.py:112} INFO - [2019-12-14 05:41:57,907] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:41:57,914] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:41:58,079] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:41:58,088] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:41:58,090] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.185 seconds
+[2019-12-14 05:42:43,972] {scheduler_job.py:153} INFO - Started process (PID=9289) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:42:43,980] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:42:43,981] {logging_mixin.py:112} INFO - [2019-12-14 05:42:43,981] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:42:43,995] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:42:44,170] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:42:44,185] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:42:44,187] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.216 seconds
+[2019-12-14 05:43:30,025] {scheduler_job.py:153} INFO - Started process (PID=9913) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:43:30,033] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py for tasks to queue
+[2019-12-14 05:43:30,034] {logging_mixin.py:112} INFO - [2019-12-14 05:43:30,033] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:43:30,052] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['http_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:43:30,369] {scheduler_job.py:1260} INFO - Processing http_example_aifest
+[2019-12-14 05:43:30,381] {scheduler_job.py:440} INFO - Skipping SLA check for <DAG: http_example_aifest> because no tasks in DAG have SLAs
+[2019-12-14 05:43:30,383] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py took 0.358 seconds

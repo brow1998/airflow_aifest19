@@ -1,0 +1,8 @@
+logs/
+.vscode/
+airflow.db
+airflow.db-journal
+random
+unittests.cfg
+airflow-webserver.pid
+__pycache__

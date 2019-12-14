@@ -1,0 +1,261 @@
+[2019-12-14 05:04:37,620] {scheduler_job.py:153} INFO - Started process (PID=15941) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:04:37,621] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:04:37,621] {logging_mixin.py:112} INFO - [2019-12-14 05:04:37,621] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:04:37,625] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:04:37,860] {logging_mixin.py:112} INFO - [2019-12-14 05:04:37,859] {dag.py:1369} INFO - Creating ORM DAG for python_example_aifest
+[2019-12-14 05:04:38,018] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.398 seconds
+[2019-12-14 05:05:19,877] {scheduler_job.py:153} INFO - Started process (PID=16264) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:05:19,883] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:05:19,883] {logging_mixin.py:112} INFO - [2019-12-14 05:05:19,883] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:05:19,893] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:05:20,079] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.202 seconds
+[2019-12-14 05:06:01,719] {scheduler_job.py:153} INFO - Started process (PID=17171) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:06:01,724] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:06:01,725] {logging_mixin.py:112} INFO - [2019-12-14 05:06:01,725] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:06:01,738] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:06:02,099] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.381 seconds
+[2019-12-14 05:06:43,960] {scheduler_job.py:153} INFO - Started process (PID=17600) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:06:43,969] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:06:43,970] {logging_mixin.py:112} INFO - [2019-12-14 05:06:43,969] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:06:43,979] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:06:44,198] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.238 seconds
+[2019-12-14 05:07:25,819] {scheduler_job.py:153} INFO - Started process (PID=17875) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:07:25,825] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:07:25,826] {logging_mixin.py:112} INFO - [2019-12-14 05:07:25,825] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:07:25,839] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:07:26,208] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.390 seconds
+[2019-12-14 05:08:08,113] {scheduler_job.py:153} INFO - Started process (PID=18183) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:08:08,120] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:08:08,121] {logging_mixin.py:112} INFO - [2019-12-14 05:08:08,120] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:08:08,130] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:08:08,373] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.260 seconds
+[2019-12-14 05:08:49,906] {scheduler_job.py:153} INFO - Started process (PID=18464) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:08:49,909] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:08:49,910] {logging_mixin.py:112} INFO - [2019-12-14 05:08:49,909] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:08:49,918] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:08:50,235] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.329 seconds
+[2019-12-14 05:09:32,314] {scheduler_job.py:153} INFO - Started process (PID=18840) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:09:32,320] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:09:32,322] {logging_mixin.py:112} INFO - [2019-12-14 05:09:32,321] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:09:32,334] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:09:32,456] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.142 seconds
+[2019-12-14 05:10:14,012] {scheduler_job.py:153} INFO - Started process (PID=19247) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:10:14,017] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:10:14,017] {logging_mixin.py:112} INFO - [2019-12-14 05:10:14,017] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:10:14,023] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:10:14,376] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.363 seconds
+[2019-12-14 05:10:56,189] {scheduler_job.py:153} INFO - Started process (PID=19540) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:10:56,195] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:10:56,196] {logging_mixin.py:112} INFO - [2019-12-14 05:10:56,195] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:10:56,204] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:10:56,327] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.138 seconds
+[2019-12-14 05:11:38,097] {scheduler_job.py:153} INFO - Started process (PID=19966) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:11:38,103] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:11:38,104] {logging_mixin.py:112} INFO - [2019-12-14 05:11:38,103] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:11:38,113] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:11:38,619] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.523 seconds
+[2019-12-14 05:12:20,287] {scheduler_job.py:153} INFO - Started process (PID=20462) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:12:20,293] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:12:20,294] {logging_mixin.py:112} INFO - [2019-12-14 05:12:20,294] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:12:20,307] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:12:20,480] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.194 seconds
+[2019-12-14 05:13:02,196] {scheduler_job.py:153} INFO - Started process (PID=20896) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:13:02,202] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:13:02,203] {logging_mixin.py:112} INFO - [2019-12-14 05:13:02,203] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:13:02,215] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:13:02,558] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.362 seconds
+[2019-12-14 05:13:44,386] {scheduler_job.py:153} INFO - Started process (PID=21486) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:13:44,392] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:13:44,393] {logging_mixin.py:112} INFO - [2019-12-14 05:13:44,393] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:13:44,403] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:13:44,531] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.144 seconds
+[2019-12-14 05:14:26,290] {scheduler_job.py:153} INFO - Started process (PID=21902) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:14:26,296] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:14:26,297] {logging_mixin.py:112} INFO - [2019-12-14 05:14:26,297] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:14:26,307] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:14:26,667] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.377 seconds
+[2019-12-14 05:15:10,338] {scheduler_job.py:153} INFO - Started process (PID=22503) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:15:10,347] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:15:10,348] {logging_mixin.py:112} INFO - [2019-12-14 05:15:10,348] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:15:10,359] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:15:10,598] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.260 seconds
+[2019-12-14 05:15:54,369] {scheduler_job.py:153} INFO - Started process (PID=22935) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:15:54,371] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:15:54,371] {logging_mixin.py:112} INFO - [2019-12-14 05:15:54,371] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:15:54,374] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:15:54,617] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.248 seconds
+[2019-12-14 05:16:38,422] {scheduler_job.py:153} INFO - Started process (PID=23465) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:16:38,427] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:16:38,428] {logging_mixin.py:112} INFO - [2019-12-14 05:16:38,427] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:16:38,436] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:16:38,850] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.429 seconds
+[2019-12-14 05:17:22,476] {scheduler_job.py:153} INFO - Started process (PID=23985) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:17:22,480] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:17:22,480] {logging_mixin.py:112} INFO - [2019-12-14 05:17:22,480] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:17:22,486] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:17:22,666] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.190 seconds
+[2019-12-14 05:18:06,515] {scheduler_job.py:153} INFO - Started process (PID=24720) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:18:06,517] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:18:06,518] {logging_mixin.py:112} INFO - [2019-12-14 05:18:06,518] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:18:06,522] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:18:06,670] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.155 seconds
+[2019-12-14 05:18:50,573] {scheduler_job.py:153} INFO - Started process (PID=25363) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:18:50,576] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:18:50,576] {logging_mixin.py:112} INFO - [2019-12-14 05:18:50,576] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:18:50,582] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:18:50,943] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.369 seconds
+[2019-12-14 05:19:34,623] {scheduler_job.py:153} INFO - Started process (PID=25778) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:19:34,629] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:19:34,630] {logging_mixin.py:112} INFO - [2019-12-14 05:19:34,629] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:19:34,640] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:19:34,777] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.154 seconds
+[2019-12-14 05:20:18,663] {scheduler_job.py:153} INFO - Started process (PID=26173) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:20:18,667] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:20:18,668] {logging_mixin.py:112} INFO - [2019-12-14 05:20:18,667] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:20:18,675] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:20:18,801] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.138 seconds
+[2019-12-14 05:21:02,714] {scheduler_job.py:153} INFO - Started process (PID=26927) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:21:02,721] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:21:02,722] {logging_mixin.py:112} INFO - [2019-12-14 05:21:02,722] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:21:02,733] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:21:03,091] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.377 seconds
+[2019-12-14 05:21:46,757] {scheduler_job.py:153} INFO - Started process (PID=27226) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:21:46,763] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:21:46,763] {logging_mixin.py:112} INFO - [2019-12-14 05:21:46,763] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:21:46,771] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:21:46,956] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.199 seconds
+[2019-12-14 05:22:30,789] {scheduler_job.py:153} INFO - Started process (PID=27624) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:22:30,791] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:22:30,791] {logging_mixin.py:112} INFO - [2019-12-14 05:22:30,791] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:22:30,795] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:22:30,999] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.210 seconds
+[2019-12-14 05:23:14,849] {scheduler_job.py:153} INFO - Started process (PID=27989) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:23:14,857] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:23:14,858] {logging_mixin.py:112} INFO - [2019-12-14 05:23:14,857] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:23:14,875] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:23:15,249] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.401 seconds
+[2019-12-14 05:23:58,886] {scheduler_job.py:153} INFO - Started process (PID=28419) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:23:58,890] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:23:58,890] {logging_mixin.py:112} INFO - [2019-12-14 05:23:58,890] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:23:58,897] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:23:59,048] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.162 seconds
+[2019-12-14 05:24:42,932] {scheduler_job.py:153} INFO - Started process (PID=28752) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:24:42,940] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:24:42,941] {logging_mixin.py:112} INFO - [2019-12-14 05:24:42,941] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:24:42,952] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:24:43,175] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.243 seconds
+[2019-12-14 05:25:26,961] {scheduler_job.py:153} INFO - Started process (PID=29121) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:25:26,963] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:25:26,963] {logging_mixin.py:112} INFO - [2019-12-14 05:25:26,963] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:25:26,968] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:25:27,325] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.364 seconds
+[2019-12-14 05:26:11,019] {scheduler_job.py:153} INFO - Started process (PID=29488) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:26:11,025] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:26:11,026] {logging_mixin.py:112} INFO - [2019-12-14 05:26:11,026] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:26:11,035] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:26:11,168] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.149 seconds
+[2019-12-14 05:26:55,048] {scheduler_job.py:153} INFO - Started process (PID=29911) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:26:55,051] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:26:55,052] {logging_mixin.py:112} INFO - [2019-12-14 05:26:55,051] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:26:55,059] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:26:55,254] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.206 seconds
+[2019-12-14 05:27:39,087] {scheduler_job.py:153} INFO - Started process (PID=30371) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:27:39,089] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:27:39,089] {logging_mixin.py:112} INFO - [2019-12-14 05:27:39,089] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:27:39,093] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:27:39,443] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.356 seconds
+[2019-12-14 05:28:23,146] {scheduler_job.py:153} INFO - Started process (PID=30822) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:28:23,153] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:28:23,155] {logging_mixin.py:112} INFO - [2019-12-14 05:28:23,154] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:28:23,176] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:28:23,393] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.248 seconds
+[2019-12-14 05:29:07,190] {scheduler_job.py:153} INFO - Started process (PID=31260) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:29:07,197] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:29:07,198] {logging_mixin.py:112} INFO - [2019-12-14 05:29:07,197] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:29:07,209] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:29:07,342] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.152 seconds
+[2019-12-14 05:29:51,223] {scheduler_job.py:153} INFO - Started process (PID=31767) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:29:51,226] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:29:51,227] {logging_mixin.py:112} INFO - [2019-12-14 05:29:51,226] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:29:51,232] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:29:51,748] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.525 seconds
+[2019-12-14 05:30:37,281] {scheduler_job.py:153} INFO - Started process (PID=32191) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:30:37,287] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:30:37,288] {logging_mixin.py:112} INFO - [2019-12-14 05:30:37,288] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:30:37,299] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:30:37,474] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.193 seconds
+[2019-12-14 05:31:45,804] {scheduler_job.py:153} INFO - Started process (PID=598) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:31:45,815] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:31:45,815] {logging_mixin.py:112} INFO - [2019-12-14 05:31:45,815] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:31:45,823] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:31:46,004] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.201 seconds
+[2019-12-14 05:33:05,617] {scheduler_job.py:153} INFO - Started process (PID=1943) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:33:05,623] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:33:05,624] {logging_mixin.py:112} INFO - [2019-12-14 05:33:05,624] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:33:05,637] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:33:06,050] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.433 seconds
+[2019-12-14 05:34:13,734] {scheduler_job.py:153} INFO - Started process (PID=2930) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:34:13,738] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:34:13,739] {logging_mixin.py:112} INFO - [2019-12-14 05:34:13,739] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:34:13,744] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:34:13,920] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.186 seconds
+[2019-12-14 05:35:01,951] {scheduler_job.py:153} INFO - Started process (PID=3893) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:35:01,953] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:35:01,954] {logging_mixin.py:112} INFO - [2019-12-14 05:35:01,954] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:35:01,957] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:35:02,168] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.216 seconds
+[2019-12-14 05:35:48,216] {scheduler_job.py:153} INFO - Started process (PID=4665) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:35:48,222] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:35:48,223] {logging_mixin.py:112} INFO - [2019-12-14 05:35:48,222] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:35:48,234] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:35:48,358] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.142 seconds
+[2019-12-14 05:36:44,917] {scheduler_job.py:153} INFO - Started process (PID=5106) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:36:44,925] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:36:44,927] {logging_mixin.py:112} INFO - [2019-12-14 05:36:44,925] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:36:44,937] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:36:45,247] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.330 seconds
+[2019-12-14 05:37:41,645] {scheduler_job.py:153} INFO - Started process (PID=5687) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:37:41,648] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:37:41,649] {logging_mixin.py:112} INFO - [2019-12-14 05:37:41,648] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:37:41,655] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:37:42,017] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.373 seconds
+[2019-12-14 05:38:27,699] {scheduler_job.py:153} INFO - Started process (PID=6248) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:38:27,707] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:38:27,708] {logging_mixin.py:112} INFO - [2019-12-14 05:38:27,708] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:38:27,719] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:38:27,925] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.226 seconds
+[2019-12-14 05:39:13,730] {scheduler_job.py:153} INFO - Started process (PID=6627) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:39:13,731] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:39:13,731] {logging_mixin.py:112} INFO - [2019-12-14 05:39:13,731] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:39:13,735] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:39:13,916] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.186 seconds
+[2019-12-14 05:40:00,112] {scheduler_job.py:153} INFO - Started process (PID=7220) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:40:00,113] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:40:00,114] {logging_mixin.py:112} INFO - [2019-12-14 05:40:00,114] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:40:00,119] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:40:00,315] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.203 seconds
+[2019-12-14 05:40:45,843] {scheduler_job.py:153} INFO - Started process (PID=7801) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:40:45,851] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:40:45,852] {logging_mixin.py:112} INFO - [2019-12-14 05:40:45,851] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:40:45,863] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:40:46,035] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.192 seconds
+[2019-12-14 05:41:31,891] {scheduler_job.py:153} INFO - Started process (PID=8437) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:41:31,900] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:41:31,901] {logging_mixin.py:112} INFO - [2019-12-14 05:41:31,900] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:41:31,910] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:41:32,027] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.136 seconds
+[2019-12-14 05:42:17,947] {scheduler_job.py:153} INFO - Started process (PID=8852) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:42:17,953] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:42:17,954] {logging_mixin.py:112} INFO - [2019-12-14 05:42:17,954] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:42:17,969] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:42:18,254] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.307 seconds
+[2019-12-14 05:43:03,986] {scheduler_job.py:153} INFO - Started process (PID=9714) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:43:03,989] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:43:03,989] {logging_mixin.py:112} INFO - [2019-12-14 05:43:03,989] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:43:03,994] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:43:04,127] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.140 seconds
+[2019-12-14 05:43:50,031] {scheduler_job.py:153} INFO - Started process (PID=10068) to work on /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:43:50,034] {scheduler_job.py:1528} INFO - Processing file /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py for tasks to queue
+[2019-12-14 05:43:50,035] {logging_mixin.py:112} INFO - [2019-12-14 05:43:50,035] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:43:50,040] {scheduler_job.py:1540} INFO - DAG(s) dict_keys(['python_example_aifest']) retrieved from /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py
+[2019-12-14 05:43:50,262] {scheduler_job.py:161} INFO - Processing /home/brow1998/projects/aifest2019/workshop_airflow/dags/python_example.py took 0.231 seconds

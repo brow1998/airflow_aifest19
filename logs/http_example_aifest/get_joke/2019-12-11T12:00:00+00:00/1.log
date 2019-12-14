@@ -1,0 +1,22 @@
+[2019-12-14 05:32:05,686] {taskinstance.py:630} INFO - Dependencies all met for <TaskInstance: http_example_aifest.get_joke 2019-12-11T12:00:00+00:00 [queued]>
+[2019-12-14 05:32:05,693] {taskinstance.py:630} INFO - Dependencies all met for <TaskInstance: http_example_aifest.get_joke 2019-12-11T12:00:00+00:00 [queued]>
+[2019-12-14 05:32:05,693] {taskinstance.py:841} INFO - 
+--------------------------------------------------------------------------------
+[2019-12-14 05:32:05,693] {taskinstance.py:842} INFO - Starting attempt 1 of 1
+[2019-12-14 05:32:05,693] {taskinstance.py:843} INFO - 
+--------------------------------------------------------------------------------
+[2019-12-14 05:32:05,846] {taskinstance.py:862} INFO - Executing <Task(SimpleHttpOperator): get_joke> on 2019-12-11T12:00:00+00:00
+[2019-12-14 05:32:05,847] {base_task_runner.py:133} INFO - Running: ['airflow', 'run', 'http_example_aifest', 'get_joke', '2019-12-11T12:00:00+00:00', '--job_id', '4', '--pool', 'default_pool', '--raw', '-sd', 'DAGS_FOLDER/http_example.py', '--cfg_path', '/tmp/tmpkbo6_7gj']
+[2019-12-14 05:32:06,180] {base_task_runner.py:115} INFO - Job 4: Subtask get_joke /home/brow1998/miniconda3/envs/airflow_aifest2019/lib/python3.7/site-packages/airflow/configuration.py:627: DeprecationWarning: You have two airflow.cfg files: /home/brow1998/airflow/airflow.cfg and /home/brow1998/projects/aifest2019/workshop_airflow/airflow.cfg. Airflow used to look at ~/airflow/airflow.cfg, even when AIRFLOW_HOME was set to a different value. Airflow will now only read /home/brow1998/projects/aifest2019/workshop_airflow/airflow.cfg, and you should remove the other file
+[2019-12-14 05:32:06,181] {base_task_runner.py:115} INFO - Job 4: Subtask get_joke   category=DeprecationWarning,
+[2019-12-14 05:32:06,696] {base_task_runner.py:115} INFO - Job 4: Subtask get_joke [2019-12-14 05:32:06,695] {__init__.py:51} INFO - Using executor SequentialExecutor
+[2019-12-14 05:32:06,696] {base_task_runner.py:115} INFO - Job 4: Subtask get_joke [2019-12-14 05:32:06,696] {dagbag.py:92} INFO - Filling up the DagBag from /home/brow1998/projects/aifest2019/workshop_airflow/dags/http_example.py
+[2019-12-14 05:32:06,730] {base_task_runner.py:115} INFO - Job 4: Subtask get_joke [2019-12-14 05:32:06,730] {cli.py:545} INFO - Running <TaskInstance: http_example_aifest.get_joke 2019-12-11T12:00:00+00:00 [running]> on host info-note
+[2019-12-14 05:32:06,739] {http_operator.py:87} INFO - Calling HTTP method
+[2019-12-14 05:32:06,741] {logging_mixin.py:112} INFO - [2019-12-14 05:32:06,741] {base_hook.py:84} INFO - Using connection to: id: http_default. Host: https://api.icndb.com/, Port: None, Schema: None, Login: None, Password: None, extra: {}
+[2019-12-14 05:32:06,742] {logging_mixin.py:112} INFO - [2019-12-14 05:32:06,742] {http_hook.py:131} INFO - Sending 'GET' to url: https://api.icndb.com/jokes/random
+[2019-12-14 05:32:07,075] {logging_mixin.py:112} WARNING - /home/brow1998/.local/lib/python3.7/site-packages/urllib3/connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2019-12-14 05:32:07,440] {http_operator.py:94} INFO - { "type": "success", "value": { "id": 340, "joke": "A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.", "categories": [] } }
+[2019-12-14 05:32:10,523] {logging_mixin.py:112} INFO - [2019-12-14 05:32:10,523] {local_task_job.py:124} WARNING - Time since last heartbeat(0.01 s) < heartrate(5.0 s), sleeping for 4.993043 s
+[2019-12-14 05:32:15,520] {logging_mixin.py:112} INFO - [2019-12-14 05:32:15,519] {local_task_job.py:103} INFO - Task exited with return code 0
